@@ -53,14 +53,16 @@ class PromoCodeDiscount extends Component {
                       value={this.props.promoCode}
                       onChange={this.handleChange}
                     />
-                    <Button
-                      className="btn-round"
-                      disabled={this.props.isDisabled}
-                      onCLick={this.props.giveDiscount}
-                    >
-                      Apply
-                    </Button>
                   </FormGroup>
+                  <Button
+                    className="btn-round"
+                    disabled={this.props.isDisabled}
+                    onCLick={this.props.giveDiscount}
+                    block
+                    variant="success"
+                  >
+                    Apply
+                  </Button>
                 </Form>
               </Col>
             </Row>
