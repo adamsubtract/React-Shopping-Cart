@@ -1,10 +1,6 @@
-
 ![app image](https://i.imgur.com/qt9UhMU.png)
 
-
-
-
-
+##[Live Demo Here](https://adamsubtract.github.io/React-Shopping-Cart/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
