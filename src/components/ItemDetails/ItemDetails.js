@@ -29,7 +29,7 @@ class ItemDetails extends Component {
                 width={100}
                 height={100}
                 alt="thumbnail"
-                src="https://cdn.shopify.com/s/files/1/0051/4802/products/invertocat_600x600.png?v=1520399398"
+                src="https://github.com/adamsubtract/React-Shopping-Cart.git"
               />
 
               <Media.Body>
